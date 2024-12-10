@@ -1,5 +1,7 @@
 Vulnhub - Corrosion: 1 Walkthrough
 
+Video link for the walkthrough: https://www.youtube.com/watch?v=p8q_MPer3Ro&list=PL_Bj4ZvhLa37QWivDC6chQTanrxqdjWrh&index=2
+
 get the IP address of the vulnerable machine
 $sudo arp-scan -l
 
